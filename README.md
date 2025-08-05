@@ -38,7 +38,7 @@ Explainable AI: SHAP integration for decision interpretability
 # 🚀 Quick Start
 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/cicids2017-threat-detection.git
+git clone https://github.com/Aizaz55/ML-Threat-detection.git
 cd cicids2017-threat-detection
 
 # Install dependencies
